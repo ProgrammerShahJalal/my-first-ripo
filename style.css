@@ -2,5 +2,12 @@ p{
     background-color: coral;
 }
 h1{
-    color: fuchsia;
+    color: lightcoral;
+    text-align: center;
+}
+p{
+    color: rgb(32, 3, 110);
+    text-align: justify;
+    padding: 25px 20px;
+    border-radius: 34px 50px 75px 50px;
 }
